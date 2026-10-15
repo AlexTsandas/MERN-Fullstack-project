@@ -2,7 +2,7 @@
 
 A full-stack product management app built with MongoDB, Express, React, and Node.js.
 
-Live Demo: [View Products Store] (https://mern-fullstack-project-xyr8.onrender.com)
+Live Demo: [View Product Store](https://mern-fullstack-project-xyr8.onrender.com)
 
 ## Features
 
